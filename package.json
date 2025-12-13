@@ -35,7 +35,7 @@
     "jsonwebtoken": "^9.0.2",
     "jws": "^4.0.1",
     "motion": "^12.23.22",
-    "next": "^15.4.8",
+    "next": "^15.4.10",
     "react": "^19.2.1",
     "react-day-picker": "^9.7.0",
     "react-dom": "^19.1.0",
